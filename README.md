@@ -40,10 +40,5 @@ This project is a simple keylogger that captures keystrokes and allows the user 
 
 3. Logs will be saved in a file named `keylog.txt`.
    
-     
-## Disclaimer
-
-The author is not responsible for any misuse of this software. Use it responsibly and ethically.
-
 
 
