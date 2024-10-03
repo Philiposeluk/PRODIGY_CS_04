@@ -22,7 +22,7 @@ This project is a simple keylogger that captures keystrokes and allows the user 
 
    ```bash
    git clone https://github.com/Philiposeluk/keyloggerv1.git
-   cd keylogger
+   cd keyloggerv1
 
 2. Install the required dependencies:
 
