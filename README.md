@@ -39,12 +39,7 @@ This project is a simple keylogger that captures keystrokes and allows the user 
 2. To stop logging, press the designated stop key `Esc` on keyboard.
 
 3. Logs will be saved in a file named `keylog.txt`.
-     
-## Important Notes
-
-   - Ethical Use: This keylogger is intended for educational purposes only. Always obtain permission from users before          logging their keystrokes.
-   -  Legal Compliance: Ensure that your use of this software complies with local laws and regulations regarding                privacy and data protection.
-
+   
      
 ## Disclaimer
 
